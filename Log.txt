@@ -1,0 +1,64 @@
+[2020-05-20 20:52:21.662751] Did activity: Code a program. +200 points! Remarks: THIS GUI.
+[2020-05-20 20:52:55.655100] Exit.
+[2020-05-25 11:59:34.914567] Used reward: 2 hours of Netflix.
+[2020-05-25 12:00:04.134272] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-25 12:00:05.961224] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-25 12:00:10.553598] Used reward: 2 hours of Netflix.
+[2020-05-25 12:00:15.304244] Used reward: 2 hours of Netflix.
+[2020-05-25 12:00:56.926483] Did activity: 1hr learn computing. +50 points! Remarks: watson assistant chatbot.
+[2020-05-25 12:01:39.510379] Did activity: Catchup with a friend. +30 points! Remarks: 3 hr call with ervin&xiwen.
+[2020-05-25 12:01:56.722536] Exit.
+[2020-05-25 12:12:46.457993] Received reward: 2 hours of gaming. -100 points!
+[2020-05-25 12:12:46.462317] Exit program.
+[2020-05-25 17:49:48.000888] Exit.
+[2020-05-26 11:59:05.168587] Used reward: 2 hours of gaming.
+[2020-05-26 12:00:10.122114] Exit.
+[2020-05-26 19:09:48.992007] Did activity: Read a book. +150 points! Remarks: Ashes to Ashes.
+[2020-05-26 19:10:07.881999] Received reward: 2 hours of gaming. -100 points!
+[2020-05-26 19:10:11.767654] Used reward: 2 hours of gaming.
+[2020-05-26 19:10:26.773133] Did activity: Wash dinner dishes. +20 points! Remarks: .
+[2020-05-26 19:10:34.256791] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-27 16:32:06.205183] Did activity: Shower before 10. +20 points! Remarks: .
+[2020-05-27 16:32:11.523137] Did activity: Cook (easy). +10 points! Remarks: .
+[2020-05-27 16:32:42.175720] Used reward: 2 hours of Netflix.
+[2020-05-27 16:32:48.026824] Exit.
+[2020-05-29 16:49:30.898978] Did activity: Shower before 10. +20 points! Remarks: .
+[2020-05-29 16:49:43.009777] Did activity: Bake. +100 points! Remarks: oreo cupcakes.
+[2020-05-29 16:50:16.939979] Received reward: 2 hours of Netflix. -100 points!
+[2020-05-29 16:50:20.575245] Exit.
+[2020-05-30 10:53:37.208101] Did activity: Read a book. +150 points! Remarks: The Knife of Never Letting Go.
+[2020-05-30 10:54:36.624371] Received reward: 2 hours of gaming. -100 points!
+[2020-05-30 10:55:40.282454] Exit.
+[2020-05-30 16:50:36.726867] Did activity: Do chore. +30 points! Remarks: Transfer old com stuff to USB.
+[2020-05-30 16:50:49.019934] Exit.
+[2020-05-31 16:19:59.809768] Did activity: Cook (easy). +10 points! Remarks: sum pasta.
+[2020-05-31 16:20:08.949361] Did activity: Do chore. +30 points! Remarks: backing up fotos.
+[2020-06-06 17:51:11.893726] Did activity: 1hr practice instr. +50 points! Remarks: guitar.
+[2020-06-06 17:51:19.721193] Did activity: 1hr practice instr. +50 points! Remarks: guitar.
+[2020-06-06 18:29:36.860135] Exit.
+[2020-06-10 20:48:11.700213] Did activity: Bake. +100 points! Remarks: Pineapple tarts.
+[2020-06-10 20:48:18.794339] Did activity: 1hr practice instr. +50 points! Remarks: guitar.
+[2020-06-10 20:48:46.563951] Used reward: 2 hours of Netflix.
+[2020-06-10 20:48:55.524058] Used reward: 2 hours of gaming.
+[2020-06-10 20:49:07.733039] Received reward: 2 hours of Netflix. -100 points!
+[2020-06-10 20:49:09.301699] Received reward: 2 hours of Netflix. -100 points!
+[2020-06-10 20:49:15.357641] Used reward: 2 hours of Netflix.
+[2020-06-10 20:49:21.100841] Used reward: 2 hours of Netflix.
+[2020-06-10 20:49:33.208595] Exit.
+[2020-06-11 14:53:51.876659] Did activity: Do chore. +30 points! Remarks: 1h of learning japanese.
+[2020-06-11 14:53:55.625847] Exit.
+[2020-06-14 17:39:16.404602] Did activity: 1hr practice instr. +50 points! Remarks: guitar.
+[2020-06-17 15:58:55.500790] Did activity: Do chore. +30 points! Remarks: transfering usb stuff.
+[2020-06-17 15:59:06.772225] Did activity: Bake. +100 points! Remarks: egg tarts.
+[2020-06-17 15:59:14.725022] Did activity: Wakeup before 930. +50 points! Remarks: yay.
+[2020-06-17 15:59:22.019936] Did activity: 1hr practice instr. +50 points! Remarks: guitar.
+[2020-06-17 15:59:27.850625] Did activity: Do chore. +30 points! Remarks: NUS emods.
+[2020-06-17 15:59:40.892809] Exit.
+[2020-06-22 15:20:57.943819] Did activity: Bake. +100 points! Remarks: Eclairs!.
+[2020-06-22 15:21:10.051353] Received reward: Buy a new game. -300 points!
+[2020-06-22 15:21:42.541667] Exit.
+[2020-08-13 13:46:05.956525] Did activity: Bake. +100 points! Remarks: blueberry muffins.
+[2020-08-13 13:46:14.009612] Did activity: Bake. +100 points! Remarks: red velvet cookies.
+[2020-08-13 13:47:21.152113] Exit.
+[2020-12-03 01:29:40.691948] Did activity: Bake. +100 points! Remarks: Crepe cake.
+[2020-12-03 01:29:46.362090] Exit.

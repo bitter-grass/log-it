@@ -1,0 +1,5 @@
+Reward|Points|Count
+
+2 hours of Netflix|100|64
+2 hours of gaming|100|4
+Buy a new game|300|1
